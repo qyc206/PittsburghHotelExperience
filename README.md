@@ -8,6 +8,8 @@ The story told in this interactive hypertext narrative is of the time when I tra
 
 I hope that my story will inspire some reflection and thought.
 
+Link to story: https://pittsburghhotelexperience.netlify.app
+
 ## Inspiration
 
 Inspiration for using specific words/phrases to link HTML pages to tell a story comes from Morehshin Allahyari's [The Laughing Snake](https://whitney.org/exhibitions/laughing-snake).
